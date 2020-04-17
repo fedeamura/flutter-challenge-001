@@ -1,8 +1,7 @@
 # Flutter Challenge 001
 
-Inspiration:
+### Inspiration:
 https://dribbble.com/shots/11008784-Wallet-App
-
 
 ### Goal:
 ![Goal1](https://imgur.com/xKfzaxi.png)
